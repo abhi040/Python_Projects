@@ -14,6 +14,5 @@ while(i>0):
         print("You have no choice left")
     i = i - 1
     print("choices left", i)
-    continue
 
 
