@@ -7,7 +7,7 @@ while(i>0):
         print("Congratulations!You got the right guess")
         break
     elif var<num:
-        print("Enter the grater number")
+        print("Enter the greater number")
     elif var>num:
         print("Enter the smaller number")
     else:
